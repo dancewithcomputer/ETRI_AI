@@ -1,0 +1,5 @@
+칡-forward
+도라지-backward
+비름-left
+자리공-right
+더덕-stop
